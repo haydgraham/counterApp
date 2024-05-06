@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBg3brAlRlzxySzs_aANOF8CynKDmhXPbY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>426738272305</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.haydgraham.counterapp</string>
+	<key>PROJECT_ID</key>
+	<string>counterapp-11cb8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>counterapp-11cb8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:426738272305:ios:00f323b8c3f8018d95ed10</string>
+</dict>
+</plist>
